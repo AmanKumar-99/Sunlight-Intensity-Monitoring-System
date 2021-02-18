@@ -1,1 +1,1 @@
-# Light-Intensity-Monitering-System
+# Sunlight-Intensity-Monitoring-System
