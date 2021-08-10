@@ -22,10 +22,10 @@ Its control panel provides us the user access management system which enables us
 <p align="center"><img src="/images/block diagram of monitoring system/img .PNG" height="360" width="550"></p>
 
 ## Real time Data Visualization on Bolt cloud dashboard
-<p align="center"><img src="/images/fetching data from IoT sensor/img .png" height="460" width="800"></p>
+<p align="center"><img src="/images/fetching data from IoT sensor/img .png" height="470" width="825"></p>
 
 ## Data in csv form
-<p align="center"><img src="/images/fetching data from IoT sensor/csv_dataset img.PNG" height="375" width="570"></p>
+<p align="center"><img src="/images/fetching data from IoT sensor/csv_dataset img.PNG" height="430" width="600"></p>
 
 ## Real time Data Analysis by using Machine Learning
 <p align="center"><img src="/images/data visualization by using matplotlib/bar chart.png" height="340" width="540"></p>
